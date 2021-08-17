@@ -8,3 +8,5 @@ This project is our in-class univelcity project. It is aimed at teaching the stu
 * Move to the main ranch and make it the master branch with the `git branch -M main` command
 * Create a linkage with the local server and the remote server by doing `$ git remote add origin https://github.com/sirdesmond09/notepad.git`
 * Push to git with the `git push -u origin main` command
+
+Learn more about writing readme styles by clicking [here](https://guides.github.com/features/mastering-markdown/#syntax)
